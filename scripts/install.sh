@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Aplicação do linux-automation no sistema"
+echo "Aplicação do linux-system-monitor no sistema"
 
 sudo cp ../src/exporter.sh /usr/local/bin/dlinux
 
