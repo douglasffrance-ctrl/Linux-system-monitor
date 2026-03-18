@@ -7,7 +7,11 @@
      sem_cor='\033[0m'
 
 
+
 echo -e "${amarelo}Monitoramento linux-system-monitor ${sem_cor}"
+
+echo -e "${amarelo}Monitoramento sistema Linux ${sem_cor}"
+
 
 
      cpu_load=$(awk '{print $1}' /proc/loadavg)

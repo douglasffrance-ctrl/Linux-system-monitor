@@ -1,4 +1,4 @@
-# Projeto linux-Automação.
+# Projeto linux-system-monitor.
 
   Este projeto é um script simples em Bash criado para monitorar os principais recursos do sistema linux
   diretamente pelo terminal.
